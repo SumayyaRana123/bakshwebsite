@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bakshwebsite/static/css/main.77c44656.css",
+    "main.js": "/bakshwebsite/static/js/main.148a8633.js",
+    "static/js/787.4a76182a.chunk.js": "/bakshwebsite/static/js/787.4a76182a.chunk.js",
+    "static/media/Screen Shot 2023-01-11 at 4.16 1.png": "/bakshwebsite/static/media/Screen Shot 2023-01-11 at 4.16 1.685fcaa6d3e3cce576cc.png",
+    "static/media/Screen Shot 2023-01-11 at 4.17 1.png": "/bakshwebsite/static/media/Screen Shot 2023-01-11 at 4.17 1.d83d020d776fe0885611.png",
+    "static/media/Screen Shot 2023-01-12 at 1.20 1.png": "/bakshwebsite/static/media/Screen Shot 2023-01-12 at 1.20 1.12dd302669dd247b33be.png",
+    "index.html": "/bakshwebsite/index.html",
+    "main.77c44656.css.map": "/bakshwebsite/static/css/main.77c44656.css.map",
+    "main.148a8633.js.map": "/bakshwebsite/static/js/main.148a8633.js.map",
+    "787.4a76182a.chunk.js.map": "/bakshwebsite/static/js/787.4a76182a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77c44656.css",
+    "static/js/main.148a8633.js"
+  ]
+}
